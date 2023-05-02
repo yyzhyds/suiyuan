@@ -1,6 +1,6 @@
 ### 介绍
 
-本项目是基于[docsify](https://docsify.js.org/#/zh-cn/)开发的一个技术文档网站，大家可以通过我这个模板进行二次更改1
+本项目是基于[docsify](https://docsify.js.org/#/zh-cn/)开发的一个技术文档网站，大家可以通过我这个模板进行二次更改
 
 #### 1.下载本项目
 
