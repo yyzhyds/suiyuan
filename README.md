@@ -17,8 +17,7 @@ npm i docsify-cli -g
 ```bash
 docsify serve doc
 ```
-
-#### [体验地址](http://8.130.113.65/#/)
+#### <a href="http://8.130.113.65/#/" target = "_blank">体验地址</a>
 
 ![img](https://dl4.weshineapp.com/gif/20171127/2904b98ec2d3125df800d8fe3ebb58c4.gif?f=micro_)
 
